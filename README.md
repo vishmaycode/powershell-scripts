@@ -20,3 +20,8 @@ move files with a perticular filename prefix into folder
 ### 4. add_exif_data_to_img.ps1
 
 we add custom exif data to the image file
+
+
+### 5. add_exif_data_to_video.ps1
+
+we add custom exif data to the video file
